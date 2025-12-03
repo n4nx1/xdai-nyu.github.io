@@ -86,8 +86,6 @@ Generates a personalized mastery report at the end of the session.
 - Recommended learning resources (video, article, course, blog)
 - Retake option for reflection and iteration
 
----
-
 ### 2.2 Early Prototypes
 
 Initial prototypes focused on basic quiz-style interactions.  
@@ -106,8 +104,6 @@ After feedback, prototypes evolved to emphasize:
 - Visual reporting
 
 Final interfaces were built in Figma with interactive flows, simulated AI output, and report visualizations.
-
----
 
 ### 2.3 Design Process
 
