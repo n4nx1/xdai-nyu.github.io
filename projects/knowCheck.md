@@ -13,6 +13,8 @@ KnowCheck is an AI-powered assessment tool designed to help young and adult lear
 KnowCheck target both young and adult learners age 18 to 45 years learning the AI concepts outsidde formal academic programs. This will cover professionals, students, and career switchers who depend on fragmented sources of learning like online courses, podcasts, articles, and job-based resources to develop AI literacy. These students tend to be self-directed, time-pressed, and practice-oriented as opposed to meticulously testing mastery of concepts. Without structured programs or consistent feedback, many struggle to determine whether they truly understand what they are learning.
 
 KnowCheck provides a structured way to help them verify mastery and build confidence through real-world, scenario-based assessment.
+`
+---
 
 ### 1.2 Identified Learning Need
 
@@ -28,9 +30,13 @@ The majority of conventional evaluation systems:
 
 As a result, learners mat progress with misplacedd confidence before they are faced with a challenging or real-world problems that they are unable to solve indpendently.
 
+---
+
 ### 1.3 Problem Statement
 
 How can AI be used to provide systematic, diagnostic assessment that helps learners accurately measure and reflect on their understanding rather than merely test recall?
+
+---
 
 ### 1.4 Research Motivation
 
@@ -44,9 +50,13 @@ KnowCheck is motivated by three educational challenges:
 
 The system is designed to shift learning evaluation from content coverage to mastery detection.
 
+---
+
 ### 1.5 Design Approach andd System Philosophy
 
 KnowCheck addresses this challenge by changing the assessment pattern from content mastery to reasoning mastery. KnowCheck does not act as an additional learning platform or tutor but rather positioins itself as an independent evaluation layer in the process of learning. The system assesses the understanding of learners by using dynamic, scenario based questions that are used to test comprehension, application, and transfer. Onboarding occurs briefly before the user is presented with questions to diffuse in line with their context (age, role and self-assessed level of knowledge). During the evaluation process, the users get real time feedback and a diagnostic report which provides their performance summaries, calibration analysis and learning recommendations.
+
+---
 
 ### 1.6 Preliminary Findings and Observations
 
@@ -54,6 +64,7 @@ Preliminary classroom testing and peer feedback surfaced several early findings.
 
 **KnowCheck** provides a clear, context-independent way to check mastery and build confidence in applying knowledge in real-world scenarios.
 
+---
 ## 2. System Design
 
 This section describes KnowCheck’s core features, early prototypes, and the design process that led to the final system.
